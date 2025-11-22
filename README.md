@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 My name is Anshika Shahi and I am from IN .
 
-- :telescope: I am currently working as a DevOps Engineer.
+- :telescope: I am currently working as a MERN Stack Developer.
 - :seedling: Exploring Technical Tools.
 - :zap: In my free time, I solve technical problems and read tech articles.
 
